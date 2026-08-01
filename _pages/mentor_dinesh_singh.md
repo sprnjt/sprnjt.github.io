@@ -1,1 +1,3 @@
-One of my mentors at IIT Mandi.
+**Dr. Dinesh Singh** — IIT Mandi
+
+One of my mentors.

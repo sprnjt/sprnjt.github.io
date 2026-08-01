@@ -1,1 +1,3 @@
-A collaborator at Nomura.
+**Samridhi Raj Sinha** — Nomura
+
+A collaborator.

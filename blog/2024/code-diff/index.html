@@ -665,17 +665,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/tikzjax/";
           
         },
-      },{id: "post-a-post-with-bibliography",
-        
-          title: "a post with bibliography",
-        
-        description: "an example of a blog post with bibliography",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/post-bibliography/";
-          
-        },
       },{id: "post-a-post-with-jupyter-notebook",
         
           title: "a post with jupyter notebook",
@@ -873,11 +862,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/introduction_to_large_language_models/";
-            },},{id: "news-joined-glance-https-www-glance-com-as-an-applied-scientist-1-working-on-llms-computer-vision-and-generative-ai",
-          title: 'Joined [Glance](https://www.glance.com/) as an Applied Scientist 1, working on LLMs, computer vision, and...',
-          description: "",
-          section: "News",},{id: "news-paper-medaiddialog-a-multilingual-multi-turn-medical-dialogue-dataset-for-accessible-healthcare-accepted-at-the-mellm-workshop-https-www-mellm-org-acl-2026-tada",
+            },},{id: "news-paper-medaiddialog-a-multilingual-multi-turn-medical-dialogue-dataset-for-accessible-healthcare-accepted-at-the-mellm-workshop-https-www-mellm-org-acl-2026-tada",
           title: 'Paper _MedAidDialog: A Multilingual Multi-Turn Medical Dialogue Dataset for Accessible Healthcare_ accepted at...',
+          description: "",
+          section: "News",},{id: "news-joined-glance-https-www-glance-com-as-an-applied-scientist-1-working-on-llms-computer-vision-and-generative-ai",
+          title: 'Joined [Glance](https://www.glance.com/) as an Applied Scientist 1, working on LLMs, computer vision, and...',
           description: "",
           section: "News",},{id: "news-paper-indicmeddialog-a-parallel-multi-turn-medical-dialogue-dataset-for-accessible-healthcare-in-indic-languages-accepted-at-the-bionlp-workshop-https-www-aclweb-org-aclwiki-bionlp-workshop-acl-2026-tada",
           title: 'Paper _IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic...',
@@ -923,6 +912,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/Sarkar_august2026.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -965,11 +961,25 @@ ninja.data = [{
           window.open("https://medium.com/@suparnojitsarkar", "_blank");
         },
       },{
+        id: 'social-kaggle',
+        title: 'Kaggle',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.kaggle.com/suparnojit", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://huggingface.co/suparnojit", "_blank");
         },
       },{
       id: 'light-theme',

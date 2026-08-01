@@ -1,1 +1,3 @@
-One of my mentors during my time at Glance.
+**Vajra Ganesh** — Glance
+
+One of my mentors.
