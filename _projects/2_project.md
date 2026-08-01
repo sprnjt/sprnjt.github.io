@@ -12,4 +12,4 @@ A benchmark probing how open vision-language models recognize Indian cultural ar
 
 {% cite sarkar2026indiacultureVLbench %}
 
-<!-- TODO(verify): venue, year, and links for this paper are unconfirmed as of this update -->
+<!-- TODO(verify): exact workshop name at EMNLP 2026 not yet confirmed -->

@@ -1,1 +1,3 @@
-One of my mentors at Cohere Labs.
+**David Rau** — Cohere Labs
+
+One of my mentors.

@@ -1,1 +1,3 @@
-One of my mentors at BITS Pilani, Goa.
+**Dr. Amitava Das** — BITS Pilani, Goa
+
+One of my mentors.

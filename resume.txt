@@ -1,0 +1,75 @@
+Suparnojit Sarkar
+(+91)-9674005304 | sarkarsuparnojit@gmail.com | LinkedIn | Kaggle | HuggingFace | Github | Scholar
+Education
+Heritage Institute of Technology Kolkata,India
+Bachelor of Technology in Computer Science 2022-2026
+Experience
+Glance AI(InMobi group) February 2026 – Present
+Applied Scientist Bengaluru, India
+• Worked on conversion of Z Image base model from T2I to I2I using training free techniques
+• Worked on realism for image generation using LoRAs applied on Flux Klein and Qwen Image
+• Working on Multi Tryoff-Flatlay-VTON PoC along with moderation handling at inference time
+Cohere Labs February 2026 – Present
+Research Collaborator Remote
+• Working on Tiny Aya Vision and Safety Representations across Languages on Tiny Aya models as a part of
+Expedition Aya project
+• Implemented a cross-modal weight merging strategy by interpolating multimodal and base LLM weights with a
+tunable alpha, enabling recovery of text-only capabilities while preserving visual grounding performance
+• Calculated refusal rate across all languages on Tiny Aya variants using LLM as a Judge (Command A) on X-Safety
+benchmark
+CINT Lab, Indian Institute of Science July 2025 – August 2025
+Project(Gen AI/ML) Intern Bengaluru,India
+• Implemented end to end pipelines for image/video generation using Flux 1Dev/Qwen Image and Wan 2.2(text to
+image and image to video)
+• Fine tuned Flux.1-Dev (LoRA) for Studio Ghibli image generation with 80% accuracy
+• Zero-Shot, Few-Shot and CoT Prompt Engineering for proper image/video generation on ComfyUI
+VIML Lab, Indian Institute of Technology Mandi (IIT Mandi) December 2024 – January 2025
+ML/CV Intern Mandi,India
+• Worked on Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images under the guidance of
+Prof.Dinesh Singh
+• Training and inferring of UAVid dataset using 2 different models (SegFormer,UnetFormer) models for image
+segmentation using Pytorch-Lightning and achieved F1 score of 0.65
+Projects
+Fashion-Search | Python, PyTorch, Hugging Face Transformers, ChromaDB, VLM
+• Built hybrid fashion retrieval using CLIP embeddings, K-means color extraction, and zero-shot scene classification
+with weighted re-ranking, enhanced with hierarchical indexing and inverted indices for 80% candidate filtering.
+• Designed semantic caching layer achieving 75-85% cache hit rates, enabling sub-20ms response times for repeated
+and similar queries.
+• Fine-tuned CLIP ViT-L/14 with contrastive learning, hard negative mining, and gradient checkpointing to optimize
+for low resource while improving fashion-specific query precision by 15-20%.
+LegalAI | Python, Agno AI, Streamlit, ChromaDB
+• Developed a multi-agent legal document analysis system with 4 specialized AI agents (LegalAdvisor,
+ContractAnalyst, LegalStrategist, Team Lead) that process PDF contracts to deliver structured risk assessments,
+compliance checks, and concise actionable insights via a Streamlit-based interactive UI.
+• Integrated ChromaDB with Gemini embeddings for semantic search across legal documents, featuring configurable
+chunking (1–5000 tokens, 200-token overlap), dual-party contract analysis, risk-based clause highlighting, and
+real-time chat functionality.
+Polygon Colorizer | PyTorch, Diffusers, and Weights and Biases
+• Built a diffusion-based conditioned U-Net (UNet2DConditionModel) to colorize grayscale polygon images using
+CLIP text embeddings from color descriptions.
+• Leveraged PyTorch, Diffusers, and Weights and Biases for training, experiment tracking, and visualization.
+SLM for English Stories | PyTorch, Transformers, SLM Pre Training
+• Built a 30M-parameter Small Language Model (SLM) for short English story generation, designing the pre training
+pipeline from data preprocessing to autoregressive text generation.
+• Implemented and evaluated transformer-based text generation workflow, demonstrating hands-on expertise in
+lightweight LLM/SLM training, inference, and qualitative evaluation.
+Achievements
+Secured first place out of 3000 participants at one of Eastern India’s largest hackathons, HackNITR 5.0 coordinated
+by DSC NIT Rourkela
+Mentored and judged AI/ML projects at one of Eastern India’s largest hackathons, HackNITR 7.0 coordinated by
+DSC NIT Rourkela
+Top 30 at Hack Heritage 2023 hackathon arranged by Heritage Institute of Technology, Kolkata
+Top 2.5% (ranked 2013) among 82,796 participants at Amazon ML Challenge
+Publications
+IndiaCultureVL-Bench: Cultural Recognition and Prompt-Induced Collapse in Open Vision-Language Models(in
+review at an EMNLP 2026 workshop as solo first author)
+IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages
+(accepted at BioNLP workshop at ACL 2026 as shared first author)
+MedAidDialog: A Multilingual Multi-Turn Medical Dialogue Dataset for Accessible Healthcare (accepted at
+MeLLM workshop at ACL 2026 as shared first author)
+Improving Biomedical Relation Classification with Error-Aware Remediation and Curriculum Learning via a
+Teacher–Student Framework (in review at ARR May 2026 as second author)
+Technical Skills
+Languages/Frameworks: Python, SQL, PyTorch, FastAPI, Agno AI, Crew AI
+Tech/Dev Tools: Git, Docker, Dune, HuggingFace, ComfyUI, AI Toolkit, Unsloth, Streamlit, ChromaDB, ArgoCD
+Libraries/Others: Fine Tuning, Prompt Engineering, Quantisation, Segmentation, RAG, LLM, Agentic AI

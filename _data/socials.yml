@@ -1,10 +1,16 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/Sarkar_august2026.pdf # path to your CV PDF file
 email: suparnojit2026@gmail.com # your email address
 scholar_userid: b9-tfnkAAAAJ # your Google Scholar ID
 github_username: sprnjt # your GitHub username
 linkedin_username: suparnojit # your LinkedIn username
 x_username: suparnojit26 # your X (Twitter) username
 medium_username: suparnojitsarkar # your Medium username
+kaggle_id: suparnojit # your Kaggle username
 rss_icon: true # comment this line to hide the RSS icon
+custom_social: # Hugging Face has no built-in jekyll-socials key
+  logo: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  title: Hugging Face
+  url: https://huggingface.co/suparnojit

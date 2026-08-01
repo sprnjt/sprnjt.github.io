@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -35,3 +35,5 @@ My research spans multilingual and multimodality, and fairness and bias. Recent 
 I studied Computer Science at Heritage Institute of Technology, Kolkata.
 
 Outside of research, I build and ship applied ML projects — from retrieval-augmented generation systems to multi-agent applications — a few of which are on my [projects page](/al-folio/projects/). See my [publications](/al-folio/publications/) for the full list of papers.
+
+I'm always open to research collaborations and interesting projects — feel free to reach out.

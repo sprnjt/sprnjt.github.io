@@ -236,7 +236,7 @@ bundle exec jekyll serve --port 5000
 
 - [ ] File is at `_bibliography/papers.bib`
 - [ ] BibTeX syntax is correct (check for missing commas, unmatched braces)
-- [ ] Entry has a unique citation key: `@article{einstein1905, ...}`
+- [ ] Entry has a unique citation key: `@article{doe2020, ...}`
 - [ ] Publication page is enabled: Check `publications_page: true` in `_config.yml`
 
 **To debug BibTeX errors:**

@@ -66,7 +66,7 @@ Here we will give you some tips on how to customize the website. One important t
     - [How it works](#how-it-works)
     - [Configuration](#configuration-1)
     - [Disable related posts for a specific post](#disable-related-posts-for-a-specific-post)
-    - [Additional configuration in _config.yml](#additional-configuration-in-_configyml)
+    - [Additional configuration in \_config.yml](#additional-configuration-in-_configyml)
   - [Managing publication display](#managing-publication-display)
   - [Adding a Google Calendar](#adding-a-google-calendar)
     - [Basic usage](#basic-usage)
@@ -773,8 +773,8 @@ In publications, the author entry for yourself is identified by string array `sc
 
 ```yaml
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Doe]
+  first_name: [Jane, J.]
 ```
 
 If the entry matches one form of the last names and the first names, it will be underlined. Keep meta-information about your co-authors in [\_data/coauthors.yml](../_data/coauthors.yml) and Jekyll will insert links to their webpages automatically. The co-author data format is as follows, with the last names lower cased and without accents as the key:
