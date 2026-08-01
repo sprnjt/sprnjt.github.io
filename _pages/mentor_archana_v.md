@@ -1,3 +1,3 @@
 **Archana V** — Apart Research
 
-One of my mentors.
+Mentored me at EleutherAI Summer of Open AI Research.

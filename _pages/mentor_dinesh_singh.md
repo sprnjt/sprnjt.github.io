@@ -1,3 +1,3 @@
 **Dr. Dinesh Singh** — IIT Mandi
 
-One of my mentors.
+Supervised my work at my IIT Mandi internship.
