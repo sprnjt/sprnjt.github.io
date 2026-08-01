@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sprnjt
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sprnjt/legal-ai-assistant
+  - sprnjt/mini-rag
+  - sprnjt/fashion-multi
+  - sprnjt/p-colorizer

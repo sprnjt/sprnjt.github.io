@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-01 09:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<!-- TODO(verify): confirm actual start date at Glance -->
+
+Joined [Glance](https://www.glance.com/) as an Applied Scientist 1, working on LLMs, computer vision, and generative AI.
