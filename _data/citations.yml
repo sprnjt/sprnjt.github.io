@@ -1,2 +1,19 @@
-metadata: {}
-papers: {}
+metadata:
+  last_updated: '2026-08-24'
+papers:
+  b9-tfnkAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: 'IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages'
+    year: '2026'
+  b9-tfnkAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Improved RT-DETR for PCB Defect Detection
+    year: '2025'
+  b9-tfnkAAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: Repurposing Text-to-Image Models as Image Editing Models
+    year: '2026'
+  b9-tfnkAAAAJ:u-x6o8ySG0sC:
+    citations: 2
+    title: 'MedAidDialog: A Multilingual Multi-Turn Medical Dialogue Dataset for Accessible Healthcare'
+    year: '2026'
